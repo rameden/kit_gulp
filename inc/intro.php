@@ -15,7 +15,7 @@
         </div>
       </div>
       <div class="nav uk-text-center uk-margin-medium-top">
-        <a href="../resume/" class="button button-resume">
+        <a href="resume/" class="button button-resume">
           <span>Resume</span>
         </a>
       </div>
